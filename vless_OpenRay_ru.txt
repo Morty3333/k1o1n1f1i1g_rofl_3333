@@ -1,1 +1,1 @@
-vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&amp;encryption=none&amp;pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.ok.ru&amp;sid=fdc8125ea6f61323#🇷🇺[openproxylist.com] vless-RU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#Russia%20#30170%20/%20OutlineKeys.com
